@@ -15,8 +15,8 @@ This Python application allows you to merge multiple PDF files into a single PDF
 2. Clone this repository or download the `pdf_merger.py` file.
 3. Install the required dependencies using pip:
    ```bash
-   ```
    pip install PyPDF2
+   ```
 4. Run the application by executing the pdf_merger.py file:
     ```bash
     python pdf_merger.py
